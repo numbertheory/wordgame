@@ -1,7 +1,7 @@
 # wordgame
 
 This will serve as a framework for word games. To get around copyright violations,
-the word list is not found in this repository, and is ignored by git. Once you
-clone down this repo, replace the placeholder src/wordlist.txt file with the word
-list of your choice.  The wordlist does have 26 default words, which is ok for testing
-but not good for games.
+the word list (src/wordlist.txt) is not found in this repository, and is ignored by git. Once you
+clone down this repo, replace the placeholder file with the word
+list of your choice and name it wordlist.txt.  The placeholder file does have 26 default words,
+which is ok for testing but not good for games.
